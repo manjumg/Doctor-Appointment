@@ -182,13 +182,13 @@ Open [http://localhost:3000](http://localhost:3000).
 
 Older setup steps are also shown in this video (database provider may differ; **this README uses Supabase**):
 
-
+[![YouTube](https://img.shields.io/badge/Watch_on-YouTube-red?logo=youtube)](https://youtu.be/L6cgb7I-Ap4)
 
 ---
 
 ## Screenshots
 
-![DoctorOnCall overview](https://github.com/manjumg/Doctor-Appointment)
+![DoctorOnCall overview](https://github.com/Ujjalzaman/Doctor-Appointment/assets/49386888/eeed56ce-3d9a-464d-91e5-588ea81ec5c0)
 
 ---
 
@@ -203,10 +203,10 @@ Older setup steps are also shown in this video (database provider may differ; **
 
 ## Author & contact
 
-**Manjunath Goni**
+**Ujjal Zaman**
 
-- **Website / portfolio:** [https://manjumg.github.io/manju-portfolio/](https://manjumg.github.io/manju-portfolio/)  
-- **Email:** [manjugoni633@gmail.com](mailto:manjugoni633@gmail.com)
+- **Website / portfolio:** [ujjalzaman.com](https://ujjalzaman.com/)  
+- **Email:** [ujjalzaman@gmail.com](mailto:ujjalzaman@gmail.com)
 
 Have a product idea, a similar project, or want to collaborate? Reach out via the website or email — I’m happy to hear from you.
 
